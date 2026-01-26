@@ -5,7 +5,7 @@ Welcome to my portfolio! This repository showcase my projects in **Sales Perform
 ## Projects
 
 ### SQL Projects 
-- [MavenMarket_SQL_analysis.sql](SQL_Project/MavenMarket_Sales_Analysis_Portfolio.sql)
+- [MavenMarket_SQL_analysis.sql](SQL_Project/MavenMarket_SQL_analysis.sql)
     Analyzed sales data to calculate segments and return rates. 
 
 ### Power BI Projects
