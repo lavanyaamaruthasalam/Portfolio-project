@@ -14,5 +14,6 @@ Welcome to my portfolio! This repository showcase my projects in **Sales Perform
 
 ### Excel Project
 - [MavenMarket Sales analysis Dashboard](Excel_Dashboard/MavenMarket_Profitability_Insights.xlsb)
-      Comprehensive Excel dashboard analyzing sales, returns, profitability and customer insights with pivot tables and KPI charts.   
+      Comprehensive Excel dashboard analyzing sales, returns, profitability and customer insights with pivot tables and KPI charts.
+      *Worked with a datset of over 269,000 transactions to showcase scalability and performance optimization in Excel.*
 
