@@ -16,3 +16,10 @@ Welcome to my portfolio! This repository showcase my projects in **Sales Perform
 - [MavenMarket Sales analysis Dashboard]
     Interactive Excel dashboard analyzing sales KPIs, product profitability and return impact
     View and download the project here:(https://drive.google.com/file/d/14TUNlJ3volrrHpc4y4_PP095wLzdN9pZ/view?usp=sharing).
+### Tools Used
+- SQL
+- Microsoft Excel
+- Power BI
+- Data Cleaning
+- Data Analysis
+- Data Visualization
