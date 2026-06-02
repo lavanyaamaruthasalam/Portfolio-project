@@ -1,4 +1,4 @@
-Return Impact & Profitability Analysis(SQL)
+# Return Impact & Profitability Analysis(SQL)
 
 This project demonstrates the use of SQL to evaluate how product returns affect business performance. The analysis measures return-driven revenue loss, profitability impact, and profit margin stability across products, brands, stores, regions, and time periods.
 
