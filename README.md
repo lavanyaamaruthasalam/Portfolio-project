@@ -1,4 +1,4 @@
-# Lavanya Maruthasalam – Sales & Data Analytics Portfolio
+# Lavanya Maruthasalam – Business & Data Analytics Portfolio
 
 Welcome to my portfolio repository.
 
