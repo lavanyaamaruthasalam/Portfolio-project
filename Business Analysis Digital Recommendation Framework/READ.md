@@ -62,21 +62,21 @@ Documents the business problem, objectives, stakeholders, assumptions, scope, ex
 
 Documents the questions, clarifications, stakeholder inputs, business objectives, constraints, dependencies, priorities, and assumptions identified during elicitation.
 
-[Open Stakeholder Elicitation](StakeholderElicitation & SME discussions.xlsx)
+[Open Stakeholder Elicitation & SME discussion](StakeholderElicitation&SMEdiscussion.xlsx)
 
 
 ### 3. TO-BE Digital Recommendation Framework
 
 Visual representation of the proposed future-state process, showing how the digital recommendation pathway integrates with the existing cross-selling and application processes.
 
-![TO-BE Digital Recommendation Framework](To Be process Digital Recommendation Framework.png)
+![To Be Digital Recommendation Framework](ToBeprocessDigitalRecommendationFramework.png)
 
 
 ### 4. Business Requirements Document (BRD)
 
 Translates the business problem and objectives into structured business requirements covering the proposed digital recommendation capability, scope, stakeholders, assumptions, and business needs.
 
-[Open BRD](Business Requirements document.docx)
+[Open BusinessRequirementsdocument](BusinessRequirementsdocument.docx)
 
 
 ### 5. Functional Requirements Document (FRD)
@@ -88,21 +88,21 @@ Translates the TO-BE framework into functional requirement areas covering:
 - Campaign configuration
 - Campaign performance monitoring
 
-[Open FRD](Functional Requirements Document.xlsx)
+[Open FunctionalRequirementDocument](FunctionalRequirementsDocument.xlsx)
 
 
 ### 6. Use Cases
 
 Defines actor-specific interactions across campaign management, customer engagement, application handoff, and campaign performance monitoring.
 
-[Open Use Cases](Use Cases.xlsx)
+[Open Use Cases](UseCases.xlsx)
 
 
 ### 7. User Stories & Acceptance Criteria
 
 Translates functional requirements into user stories and acceptance criteria covering recommendation interaction, application handoff, engagement/conversion capture, and campaign performance.
 
-[Open User Stories & Acceptance Criteria](User stories & Acceptance Criteria.xlsx)
+[Open User Stories & Acceptance Criteria](Userstories&AcceptanceCriteria.xlsx)
 
 
 ## Scope of the Solution
@@ -143,4 +143,4 @@ The proposed framework defines measures across five areas:
 
 The complete case study presents the problem, existing process, elicitation approach, TO-BE framework, functional requirements, user interactions, scope, and success measures.
 
-[Open Final Case Study Deck](Final Case Study Deck.pptx)
+[Open Final Case Study Deck](FinalCaseStudyDeck.pptx)
