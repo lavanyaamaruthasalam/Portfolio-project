@@ -2,7 +2,7 @@
 
 Welcome to my portfolio repository.
 
-This repository showcases end-to-end business analytics projects built using Excel, SQL, and Power BI. Each project focuses on solving business problems through data preparation, analysis, visualization, and insight generation.
+This repository showcases business analytics and business analysis projects focused on solving business problems through data, structured analysis, process understanding, and actionable insights. Projects span Excel, SQL, Power BI, and Business Analysis documentation.
 
 ## Tools & Skills Demonstrated
 
@@ -10,6 +10,15 @@ This repository showcases end-to-end business analytics projects built using Exc
 - SQL (Joins, Aggregations, CTEs, Window Functions, RFM Segmentation)
 - Power BI (Data Modeling, DAX, Interactive Dashboards)
 - Business Analysis
+- Requirements Elicitation & Analysis
+- Stakeholder Analysis
+- AS-IS / TO-BE Process Mapping
+- Business & Functional Requirements
+- BRD / FRD
+- Use Cases
+- User Stories & Acceptance Criteria
+- Business Rules & Scope Definition
+- Process Improvement
 - KPI Development
 - Customer Segmentation
 - Churn Analysis
@@ -19,6 +28,10 @@ This repository showcases end-to-end business analytics projects built using Exc
 - Data storytelling
 
 ## Projects
+
+### Business Analysis – Digital Recommendation Framework
+
+Designed a Business Analysis case study for introducing an incremental digital recommendation pathway within an existing banking cross-selling process. Conducted stakeholder elicitation and current-state analysis, identified process gaps, designed the TO-BE framework, and translated business needs into functional requirements, use cases, user stories, and acceptance criteria. The proposed framework identifies digitally active customers for personalized in-app recommendations while keeping existing product eligibility, communication, and application processes intact.
 
 ### Retail Sales Analysis
 Comprehensive sales performance analysis using 269K+ retail transactions to evaluate revenue, profitability, return impact, and customer behavior.
